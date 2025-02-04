@@ -1,0 +1,19 @@
+{
+  "name": "aistracker",
+  "version": "0.1.0",
+  "description": "AIS tracker is a static site to show the AIS track for a vessel.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GNU",
+  "devDependencies": {
+    "dotenv-webpack": "^8.1.0",
+    "html-webpack-plugin": "^5.6.3",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
